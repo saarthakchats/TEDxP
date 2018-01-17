@@ -7,8 +7,6 @@
 > Request Sent! Waiting for approval :wink:
 
 
-# demo
-
 # TEDxHQ
 <p align="center"><img src="https://raw.githubusercontent.com/TEDxHQ/branding/master/PNG/TEDxHQ_Horizontal.png"></p>
 
@@ -17,7 +15,6 @@
 [![OpenCollective](https://opencollective.com/TEDxHQ/backers/badge.svg)](#backers) 
 [![OpenCollective](https://opencollective.com/TEDxHQ/sponsors/badge.svg)](#sponsors)
 
-> Invite System for GitHub Organizations
 
 TEDxHQ takes Github Organization invites to a new level! [Read more on the TEDxHQ documentation](https://TEDxHQ.readme.io/docs/about-TEDxHQ).
 
