@@ -2,8 +2,10 @@
 
 # About TEDxHQ
 
-<p> At TEDxHQ, we are building applications for doers, makers, inventors, advocates, filmmakers and photographers, musicians and artists, scientists, entrepreneurs, NGO heads, and human rights activists who use TED Platform made for visionary thinkers from around the world.</p>
+> At **TEDxHQ**, We build applications for doers, makers, inventors, advocates, filmmakers and photographers, musicians and artists, scientists, entrepreneurs, NGO heads, and human rights activists who use TED Platform made for visionary thinkers from around the world.
 
+
+#### Status : 
 > Request Sent! Waiting for approval :wink:
 
 
