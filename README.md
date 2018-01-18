@@ -10,13 +10,13 @@
 
 
 # TEDxHQ
-<p align="center"><img src="https://raw.githubusercontent.com/TEDxHQ/branding/master/PNG/TEDxHQ_Horizontal.png"></p>
+<!--<p align="center"><img src="https://raw.githubusercontent.com/TEDxHQ/branding/master/PNG/TEDxHQ_Horizontal.png"></p>-->
 
 [![license](https://img.shields.io/github/license/TEDxHQ/TEDxHQ.svg)](LICENSE.md)
 
-[![OpenCollective](https://opencollective.com/TEDxHQ/backers/badge.svg)](#backers) 
+<!--[![OpenCollective](https://opencollective.com/TEDxHQ/backers/badge.svg)](#backers) 
 [![OpenCollective](https://opencollective.com/TEDxHQ/sponsors/badge.svg)](#sponsors)
-
+-->
 
 TEDxHQ takes Github Organization invites to a new level! [Read more on the TEDxHQ documentation](https://TEDxHQ.readme.io/docs/about-TEDxHQ).
 
@@ -79,13 +79,10 @@ Facing an issue? Want to meet other TEDxHQ users? Just want to say hello?
 ## Contributing
 
 Please read the [Contributing to TEDxHQ](https://TEDxHQ.readme.io/docs/contributing-to-TEDxHQ) section on the TEDxHQ  Documentation for ideas on how to help, and the [CONTRIBUTING.md](https://github.com/TEDxHQ/TEDxHQ/blob/master/.github/CONTRIBUTING.md) file for details on our code of conduct, and the process for submitting pull requests.
-
+<!--
 ### Sponsors
-
 Does your organization use TEDxHQ ?  Ask your manager or marketing team if you're interested in supporting our project.  Support will allow the maintainers to dedicate more time for maintenance and new features for everyone.  Also, your company's logo will show on GitHub and on our site -- who doesn't want a little extra exposure?
-
 Become a sponsor and get your logo on our README on Github with a link to your site. [[Become a sponsor](https://opencollective.com/TEDxHQ#sponsor)]
-
 <a href="https://opencollective.com/TEDxHQ/sponsor/0/website" target="_blank"><img src="https://opencollective.com/TEDxHQ/sponsor/0/avatar.svg"></a>
 <a href="https://opencollective.com/TEDxHQ/sponsor/1/website" target="_blank"><img src="https://opencollective.com/TEDxHQ/sponsor/1/avatar.svg"></a>
 <a href="https://opencollective.com/TEDxHQ/sponsor/2/website" target="_blank"><img src="https://opencollective.com/TEDxHQ/sponsor/2/avatar.svg"></a>
@@ -116,11 +113,8 @@ Become a sponsor and get your logo on our README on Github with a link to your s
 <a href="https://opencollective.com/TEDxHQ/sponsor/27/website" target="_blank"><img src="https://opencollective.com/TEDxHQ/sponsor/27/avatar.svg"></a>
 <a href="https://opencollective.com/TEDxHQ/sponsor/28/website" target="_blank"><img src="https://opencollective.com/TEDxHQ/sponsor/28/avatar.svg"></a>
 <a href="https://opencollective.com/TEDxHQ/sponsor/29/website" target="_blank"><img src="https://opencollective.com/TEDxHQ/sponsor/29/avatar.svg"></a>
-
 ### Backers
-
 Support us with a monthly donation and help us continue our activities. [[Become a backer](https://opencollective.com/TEDxHQ#backer)]
-
 <a href="https://opencollective.com/TEDxHQ/backer/0/website" target="_blank"><img src="https://opencollective.com/TEDxHQ/backer/0/avatar.svg"></a>
 <a href="https://opencollective.com/TEDxHQ/backer/1/website" target="_blank"><img src="https://opencollective.com/TEDxHQ/backer/1/avatar.svg"></a>
 <a href="https://opencollective.com/TEDxHQ/backer/2/website" target="_blank"><img src="https://opencollective.com/TEDxHQ/backer/2/avatar.svg"></a>
@@ -151,7 +145,7 @@ Support us with a monthly donation and help us continue our activities. [[Become
 <a href="https://opencollective.com/TEDxHQ/backer/27/website" target="_blank"><img src="https://opencollective.com/TEDxHQ/backer/27/avatar.svg"></a>
 <a href="https://opencollective.com/TEDxHQ/backer/28/website" target="_blank"><img src="https://opencollective.com/TEDxHQ/backer/28/avatar.svg"></a>
 <a href="https://opencollective.com/TEDxHQ/backer/29/website" target="_blank"><img src="https://opencollective.com/TEDxHQ/backer/29/avatar.svg"></a>
-
+-->
 ### People
 
 For information about all the people that have helped to make this possible, check the [People](https://TEDxHQ.readme.io/docs/people) section in the TEDxHQ Documentation.
