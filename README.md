@@ -1,4 +1,11 @@
 # TEDxP
+<!--<p align="center"><img src="https://raw.githubusercontent.com/TEDxP/branding/master/PNG/TEDxP_Horizontal.png"></p>-->
+<!--[![OpenCollective](https://opencollective.com/TEDxP/backers/badge.svg)](#backers) 
+[![OpenCollective](https://opencollective.com/TEDxP/sponsors/badge.svg)](#sponsors)
+-->
+
+[![license](https://img.shields.io/github/license/TEDxP/TEDxP.svg)](LICENSE.md)
+
 > ***TED Multiplied with Coding!***
 
 # About TEDxP
@@ -9,18 +16,6 @@
 #### Status : 
 > Request Sent! Waiting for approval :wink:
 
-
-# TEDxP
-<!--<p align="center"><img src="https://raw.githubusercontent.com/TEDxP/branding/master/PNG/TEDxP_Horizontal.png"></p>-->
-
-[![license](https://img.shields.io/github/license/TEDxP/TEDxP.svg)](LICENSE.md)
-
-<!--[![OpenCollective](https://opencollective.com/TEDxP/backers/badge.svg)](#backers) 
-[![OpenCollective](https://opencollective.com/TEDxP/sponsors/badge.svg)](#sponsors)
--->
-
-TEDxP takes Github Organization invites to a new level! [Read more on the TEDxP documentation](https://TEDxP.readme.io/docs/about-TEDxP).
-
 ## Table of Contents
 
 - [Install](#install)
@@ -28,10 +23,11 @@ TEDxP takes Github Organization invites to a new level! [Read more on the TEDxP 
 - [Updating](#updating)
 - [Testing](#testing)
 - [Built With](#built-with)
-- [Support Channels](#support-channels)
+- [Channels](#support-channels)
 - [Contributing](#contributing)
 	- [Sponsors](#sponsors)
 	- [People](#people)
+	- [Join!](#join)
 - [License](#license)
 
 ## Install
