@@ -10,10 +10,10 @@
 
 # About TEDxP
 
-> At **TEDxP**, We build applications for doers, makers, inventors, advocates, filmmakers and photographers, musicians and artists, scientists, entrepreneurs, NGO heads, and human rights activists who use TED Platform made for visionary thinkers from around the world.
+> At **TEDxP**, We Build Innovative Solutions for Doers, Makers, Inventors, Advocates, Filmmakers and Photographers, Musicians and Artists, Scientists, Entrepreneurs, NGO Heads, Human Rights Activists and Any Person who use TED Platform, made for visionary thinkers from around the world.
 
 
-#### Status : 
+#### Sponsorship Status : 
 > Request Sent! Waiting for approval :wink:
 
 <!--
@@ -55,7 +55,7 @@ You can read about [how to configure the testing environment and how to run the 
 -->
 ## Support Channels
 
-Facing an issue? Want to meet other TEDxP users? Just want to say hello?
+**Facing an issue? Want to meet other TEDxP Users? Just want to say hello?**
 
 
 ## Contributing
