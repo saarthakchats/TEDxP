@@ -6,7 +6,7 @@
 
 [![license](https://img.shields.io/github/license/TEDxP/TEDxP.svg)](LICENSE.md)
 
-> ***TED Multiplied with Coding!***
+> ***TED Multiplied with Programming!***
 
 # About TEDxP
 
