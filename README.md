@@ -16,8 +16,8 @@
 #### Status : 
 > Request Sent! Waiting for approval :wink:
 
+<!--
 ## Table of Contents
-
 - [Install](#install)
 - [Hosted Version](#hosted-version)
 - [Updating](#updating)
@@ -29,34 +29,19 @@
 	- [People](#people)
 	- [Join!](#join)
 - [License](#license)
-
 ## Install
-
 To install the TEDxP **Stable Version**, [check out these docs](https://TEDxP.readme.io/docs/prod-requirements).
-
 To learn how to setup the TEDxP **Developer Version** up and running on your local machine for development and testing purposes see the [TEDxP Developer Version](https://TEDxP.readme.io/docs/dev-requirements) section in the TEDxP Documentation.
-
 ## Hosted Version
-
 Not everyone can afford a server, nor do they have the skills to set up a modern PHP application, so TEDxP provides a hosted version you can use **for FREE**. You can access the hosted version [here](https://TEDxP.miguelpiedrafita.com). In return, please report any bugs you encounter, so we can continue improving!
-
 ## Updating
-
 TEDxP is under active development, and that means it gets lots of updates, bug fixes and new features. Read the guides below to learn how to update to the latest TEDxP version.
-
 For updating a development environment, read the [Updating the TEDxP Developer Version](https://TEDxP.readme.io/docs/dev-updating) section in the TEDxP Documentation. For updating a production environment, read the [Updating the TEDxP Stable Version](https://TEDxP.readme.io/docs/prod-updating) section in the TEDxP Documentation.
-
 We (try to) follow [SemVer](http://semver.org/). For the versions available, see the [releases page](https://github.com/TEDxP/TEDxP/releases).
-
 ## Testing
-
 We use the Laravel testing functionalities and PHPUnit to add automated testing to TEDxP.
-
 You can read about [how to configure the testing environment and how to run the tests](https://TEDxP.readme.io/docs/testing) in the TEDxP Documentation.
-
-
 ## Built With
-
 * []() - The programming language used.
 * [](h) - Database software used.
 * [ 5.5](htt) - The web framework used.
@@ -67,7 +52,7 @@ You can read about [how to configure the testing environment and how to run the 
 * [PHP reCaptcha](https://github.com/google/recaptcha) - The reCaptcha Client
 * [](http://.io/), [Bootstrap](https://getbootstrap.com/) & [MaterializeCSS](http://materializecss.com/) - The frontend frameworks used
 * [Octicons](https://octicons.github.com/) - The icons used
-
+-->
 ## Support Channels
 
 Facing an issue? Want to meet other TEDxP users? Just want to say hello?
