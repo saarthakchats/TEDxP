@@ -56,7 +56,7 @@ You can read about [how to configure the testing environment and how to run the 
 ## Support Channels
 
 **Facing an issue? Want to meet other TEDxP Users? Just want to say hello?**
-
+Join the [Gitter Channel](https://gitter.im/TEDxP/Events)
 
 ## Contributing
 
